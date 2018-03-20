@@ -1,6 +1,51 @@
-.page_name{
+body{
+  width: 400px;
+  height: 750px;
+  margin: 50px 0 0 700px;
+  position: fixed;
+  background-size: 420px 770px;
+  border: 10px solid;
+  border-radius: 10px;
+}
 
+.toolbar{
   color: white;
   background-color: orange;
-
+  line-height: 50px;
 }
+
+.page_name{
+  font-size: 35px;
+  margin-left: 100px;
+}
+
+.button{
+  font-size: 30px;
+  margin-left: 120px;
+  background-color: orange;
+  border-radius: 10px;
+}
+
+#arrow{
+  width: 50px;
+  height: 50px;
+}
+
+#burger{
+  width: 400px;
+}
+
+#star{
+  margin-left: 75px;
+}
+
+h2{
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+h3{
+  margin-left: 100px;
+}
+
+
